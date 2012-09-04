@@ -1,0 +1,1395 @@
+2012/08/22 18:33:22	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:33:22	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:34:02	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:34:02	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:34:06	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:34:06	GLOBAL	1024	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:35:11	GLOBAL		HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:35:11	GLOBAL		HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:36:18	GLOBAL	127.0.0.1	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:36:18	GLOBAL	127.0.0.1	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:36:28	GLOBAL	127.0.0.1	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	NEWSESS	Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:36:28	GLOBAL	127.0.0.1	HTTP	44678678afc6113f2291be29fc4d8aaf285436f0	METHOD	GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:37:09 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 NEWSESS Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:37:09 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:37:52 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 NEWSESS Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:37:52 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:37:53 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 NEWSESS Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:37:53 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:37:53 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 NEWSESS Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 18:37:53 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:38:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:38:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:38:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:38:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:38:12 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:40:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTHFAIL
+2012/08/22 18:40:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:51:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTHFAIL
+2012/08/22 18:51:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:53:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTHFAIL
+2012/08/22 18:53:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:54:07 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTHFAIL User=
+2012/08/22 18:54:07 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:54:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTHFAIL Login=nklnkl QoP=SALT
+2012/08/22 18:54:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:55:35 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=nklnkl QoP=SALT
+2012/08/22 18:55:35 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:59:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 18:59:09 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:10 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:14 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:14 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:16 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:39 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:48 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:48 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 18:59:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:01:25 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:01:26 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:01:27 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:01:27 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:19 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:02:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:03:22 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:03:48 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:03:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:04:21 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:04:25 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:04:32 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:04:55 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:06:42 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:07:00 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:07:00 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:07:35 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:07:52 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:07:56 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:08:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:08:45 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:08:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:10:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:10:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:07 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:07 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:09 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:12 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:13 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:13 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:37 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:37 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:11:44 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:05 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:18 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:19 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:19 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:24 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:37 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:12:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:20 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:29 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:37 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:13:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:14:16 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:14:17 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:15:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:15:58 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:16:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:07 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:13 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:16:17 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:18:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:18:32 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:19:26 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:19:29 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:19:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:19:32 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:19:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:10 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:11 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:25 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:35 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:36 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:45 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:20:45 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:08 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:08 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:46 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:56 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:56 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:21:57 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:22:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:22:05 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:23:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:23:52 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:23:54 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:23:56 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:24:24 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:24:24 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:24:25 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:24:46 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:00 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:02 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:25:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:33:23 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:35:04 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:35:42 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:35:44 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:35:54 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:10 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:13 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:31 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:31 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:37:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:38:20 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:38:31 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=ngfnxtg QoP=SALT
+2012/08/22 19:38:31 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:38:42 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=grdgr QoP=SALT
+2012/08/22 19:38:42 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:38:46 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:38:46 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php?
+2012/08/22 19:38:46 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678726
+2012/08/22 19:39:15 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=13456hxftth78726
+2012/08/22 19:39:20 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:20 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:21 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:22 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:23 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:24 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:27 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:39:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=1345678770
+2012/08/22 19:39:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678773
+2012/08/22 19:39:55 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:56 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:57 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:39:57 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:40:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678801
+2012/08/22 19:40:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 CATCH Exception=Corp_SecurityException Code=500 Message=Allready logged
+2012/08/22 19:40:01 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 #0 [internal function]: Corp_Plugin_Corp2Soho->beforeMethod(Object(Corp_ExecutionContext), 'POST')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.abstractservice.php(178): call_user_func_array(Array, Array)
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(298): Corp_AbstractService->broadcastEvent('beforeMethod', Array)
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(229): Corp_Service->invokeMethod('POST', Object(Corp_ExecutionContext))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(26): Corp_Service->execute()
+#5 {main}
+2012/08/22 19:40:19 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:24 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:26 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:27 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:29 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:30 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/22 19:40:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:40:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=1345678830
+2012/08/22 19:40:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678833
+2012/08/22 19:40:36 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:40:36 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678833
+2012/08/22 19:40:36 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678836
+2012/08/22 19:42:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678836
+2012/08/22 19:42:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678836
+2012/08/22 19:42:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345678836
+2012/08/22 19:42:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:42:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:42:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=1345678970
+2012/08/22 19:42:51 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:45:01 GLOBAL 127.0.0.1 HTTP ? METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:45:05 GLOBAL 127.0.0.1 HTTP ? METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:45:33 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:45:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:45:40 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=htdft QoP=SALT
+2012/08/22 19:45:40 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 METHOD POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:46:59 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971
+2012/08/22 19:46:59 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=htdft QoP=SALT
+2012/08/22 19:47:03 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:05 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:05 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:06 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 QUERY GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:12 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:13 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345678971l
+2012/08/22 19:47:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1
+2012/08/22 19:47:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679254
+2012/08/22 19:47:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=ANONYMOUS; UID=; NAME=Anonymous]
+2012/08/22 19:47:34 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679254
+2012/08/22 19:47:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=4646
+2012/08/22 19:47:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679258
+2012/08/22 19:47:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=ANONYMOUS; UID=; NAME=Anonymous]
+2012/08/22 19:47:38 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679258
+2012/08/22 19:47:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=4646456465
+2012/08/22 19:47:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679269
+2012/08/22 19:47:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=ANONYMOUS; UID=; NAME=Anonymous]
+2012/08/22 19:47:49 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679269
+2012/08/22 19:48:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=4646456456
+2012/08/22 19:48:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=ANONYMOUS; UID=; NAME=Anonymous]
+2012/08/22 19:48:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679327
+2012/08/22 19:48:47 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679327
+2012/08/22 19:49:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679327
+2012/08/22 19:49:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:49:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345679368
+2012/08/22 19:49:28 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345679368
+2012/08/22 19:49:39 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345679368nhjok
+2012/08/22 19:49:41 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=1345679379
+2012/08/22 19:49:41 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/22 19:49:41 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679381
+2012/08/22 19:49:41 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679381
+2012/08/22 19:49:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679381
+2012/08/22 19:49:50 GLOBAL 127.0.0.1 HTTP 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=bfcbf QoP=SALT
+2012/08/22 19:50:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345679381
+2012/08/22 19:50:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=bfcbf QoP=SALT
+2012/08/22 19:50:46 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 19:51:13 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:00:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:00:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:09:20 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:10:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:25:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:25:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:25:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:25:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:25:40 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:25:40 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:25:42 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:25:42 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:26:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:26:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:26:20 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:26:20 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:26:26 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:26:26 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:26:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:26:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:26:31 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:26:31 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:27:26 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:27:26 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:27:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:27:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:27:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:27:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:27:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:27:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:27:54 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:27:54 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:33:44 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:33:44 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'COUNT(sid)')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:33:45 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:33:45 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'COUNT(sid)')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:34:38 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:34:38 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'sid')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:34:38 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:34:38 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'sid')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:34:49 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:34:49 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:34:49 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:34:49 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:35:20 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:35:20 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'sid')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:35:22 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `soho`.`soho_usersessioncorp` WHERE `sid` = '44678678afc6113f2291be29fc4d8a' at line 1
+2012/08/22 20:35:22 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.workgroop/src/wg/inc/Moodel.php(4): MySQLDatabaseConnector->query('SELECT  FROM `s...')
+#1 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MoodelStruct->get(Array, 'sid')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#5 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#6 {main}
+2012/08/22 20:35:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:35:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:35:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:35:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:36:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:36:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:36:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:36:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:37:52 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:37:52 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:39:07 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.main' doesn't exist
+2012/08/22 20:39:07 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(100): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:39:41 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.main' doesn't exist
+2012/08/22 20:39:41 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:06 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.main.usersessioncorp' doesn't exist
+2012/08/22 20:40:06 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:12 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.main.usersessioncorp' doesn't exist
+2012/08/22 20:40:12 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:51 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:40:51 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:56 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:40:56 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:56 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:40:56 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:40:57 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:40:57 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:41:17 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:41:17 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:41:18 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=DatabaseQueryException Code=0 Message=Table 'soho.usersessioncorp' doesn't exist
+2012/08/22 20:41:18 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/corp2soho/corp.persistence.orm.session.moodel.php(101): MySQLDatabaseConnector->query('SELECT COUNT(`s...')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.database.php(91): Corp_Persistence_SessionORM_Moodel->isEntryExists('44678678afc6113...')
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(31): Corp_Service->execute()
+#5 {main}
+2012/08/22 20:41:23 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:41:23 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:41:46 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:41:46 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:00 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:00 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:16 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:16 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:22 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:22 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:24 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:24 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:42:25 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:42:25 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:43:28 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:43:28 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:43:29 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:43:29 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:47:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:47:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:47:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:47:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:47:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:47:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:57:02 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:57:02 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:58:29 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLo
+2012/08/22 20:58:29 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/22 20:58:38 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 20:58:38 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 20:58:49 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 20:58:49 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:00:56 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:00:56 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:15 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:15 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:16 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:16 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:46 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:46 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:46 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:46 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:59 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:59 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:02:59 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:02:59 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:16 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:16 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:23 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:23 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:27 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:27 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:41 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:41 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:49 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:49 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:03:50 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:03:50 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:04:04 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:04:04 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:04:07 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:04:07 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:04:53 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:04:53 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:04:54 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:04:54 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:05:01 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:05:01 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:05:24 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:05:24 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:05:31 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:05:31 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:07:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:07:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:08:04 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:08:04 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:08:04 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:08:04 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:08:12 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:08:12 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:08:12 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:08:12 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:09:37 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:09:37 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:09:38 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:09:38 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:12:25 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:12:25 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:12:35 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:12:35 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:12:36 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:12:36 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:13:33 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:13:33 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:13:34 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:13:34 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:14:59 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:14:59 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:15:00 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:15:00 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:15:00 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:15:00 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:15:07 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:15:07 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:15:22 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:15:22 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:15:57 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:15:57 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:18:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:18:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:19:51 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:19:51 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:19:52 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:19:52 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:20:01 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:20:01 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:20:15 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:20:15 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:20:16 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:20:16 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:20:55 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:20:55 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:21:21 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:21:21 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:21:45 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:21:45 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:22:26 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:22:26 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:23:28 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:23:28 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:24:00 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:24:00 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:25:29 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:25:29 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:25:34 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:25:34 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:25:49 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:25:49 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:26:23 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:26:23 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:26:32 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:26:32 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:27:31 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:27:31 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:28:27 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:28:27 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:28:37 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:28:37 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:28:42 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:28:42 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:28:56 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:28:56 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:29:07 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:29:07 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:30:44 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:30:44 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:30:45 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:30:45 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:31:44 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:31:44 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:31:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:31:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:35:33 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:35:33 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:36:01 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:36:01 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:36:08 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:36:08 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:37:24 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:37:24 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:37:53 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:37:53 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:38:28 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:38:28 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:38:36 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:38:36 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:39:27 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:39:27 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:39:30 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:39:30 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:40:41 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:40:41 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:40:42 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:40:42 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:41:08 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:41:08 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:41:10 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:41:10 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:41:13 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:41:13 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:18 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:18 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:37 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:37 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:37 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:37 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:41 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:41 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:50 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:50 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:51 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:51 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:42:59 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:42:59 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:43:39 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:43:39 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:43:40 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:43:40 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:44:32 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:44:32 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:44:33 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:44:33 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:44:48 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:44:48 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:44:55 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:44:55 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:45:31 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:45:31 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:45:52 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:45:52 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:46:46 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:46:46 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:47:35 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:47:35 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:47:36 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:47:36 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:47:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:47:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:48:00 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:48:00 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:48:44 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:48:44 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:49:10 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:49:10 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:49:23 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:49:23 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:49:41 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:49:41 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:49:54 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:49:54 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:50:38 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:50:38 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:50:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:50:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:50:51 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:50:51 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:51:11 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:51:11 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:51:39 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:51:39 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:52:31 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:52:31 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:54:00 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:54:00 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:54:02 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:54:02 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:54:05 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select entry
+2012/08/22 21:54:05 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:55:40 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select session #44678678afc6113f2291be29fc4d8aaf285436f0
+2012/08/22 21:55:40 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:55:47 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select session: 44678678afc6113f2291be29fc4d8aaf285436f0
+2012/08/22 21:55:47 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/22 21:57:02 GLOBAL HTTP 127.0.0.1 ? CATCH Exception=Corp_Persistence_Exception Code=500 Message=Unable to select session: 44678678afc6113f2291be29fc4d8aaf285436f0
+2012/08/22 21:57:02 GLOBAL HTTP 127.0.0.1 ? #0 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Persistence/corp.persistence.manager.abstract.php(84): Corp_Persistence_Manager_Database->initSession(Object(Corp_Service))
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(224): Corp_Persistence_AbstractManager->createCurrentSession(Object(Corp_Service))
+#2 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(30): Corp_Service->execute()
+#3 {main}
+2012/08/23 07:59:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:02:13 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:02:58 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:03:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:08:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:08:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:09:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:10:36 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:10:50 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:10:50 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:10:57 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLegegvser
+2012/08/23 08:11:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:18 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:18 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=huihuih QoP=SALT
+2012/08/23 08:11:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 AUTH_FAILURE Login=ngfxc QoP=SALT
+2012/08/23 08:11:40 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 08:11:41 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/23 08:11:41 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345723900
+2012/08/23 08:11:41 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345723900
+2012/08/23 08:11:45 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogin=134572390btgd0
+2012/08/23 08:12:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?logout=1&ts=1345723905
+2012/08/23 08:12:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 LOGOUT Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/23 08:12:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345723929
+2012/08/23 08:12:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345723929
+2012/08/23 08:12:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345723929
+2012/08/23 08:12:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345723929
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1345723958
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST POST /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=1345723929
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 CATCH Exception=Corp_SecurityException Code=500 Message=Allready logged
+2012/08/23 08:12:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 #0 [internal function]: Corp_Plugin_Corp2Soho->beforeMethod(Object(Corp_ExecutionContext), 'POST')
+#1 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.abstractservice.php(178): call_user_func_array(Array, Array)
+#2 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(306): Corp_AbstractService->broadcastEvent('beforeMethod', Array)
+#3 /home/ted/www/evolya.corpsecurity/src/CorpSecurity/Core/corp.service.php(229): Corp_Service->invokeMethod('POST', Object(Corp_ExecutionContext))
+#4 /home/ted/www/evolya.corpsecurity/test/test.corp2soho.php(35): Corp_Service->execute()
+#5 {main}
+2012/08/23 08:12:48 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:12:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:12:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:12:56 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:12:56 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:13:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:13:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 08:27:59 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:28:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:29:52 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:30:36 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:31:11 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:31:36 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:32:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:32:15 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:32:19 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 08:32:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 14:55:13 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 14:55:15 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 14:55:34 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:03:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:04:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:04:19 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:05:11 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:05:25 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:05:40 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:05:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:09:28 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:09:28 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:09:28 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:09:55 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:09:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:09:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:09:58 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:09:58 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:09:58 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:09:59 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:09:59 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:09:59 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:10:03 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:10:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:10:12 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:10:12 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:12 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:10:13 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 15:10:13 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:13 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:10:33 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:34 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:50 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:52 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:10:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:11:34 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:12:10 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:13:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:30 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:31 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:33 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:20:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 15:20:41 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET /evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:34:02 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:35:16 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:35:51 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:35:53 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:35:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:35:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:36:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET https://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:36:15 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 15:48:45 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:47:34 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 16:47:34 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:47:34 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 16:48:29 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:50:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:50:58 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:10 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:35 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:35 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:36 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:43 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:51:56 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:02 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:04 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:08 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:10 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:10 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:10 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:12 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:15 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:18 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:19 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:24 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:50 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:52:58 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:53:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:53:49 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:53:57 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:02 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:03 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:04 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:04 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:05 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:24 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:25 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:26 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:56:27 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:57:24 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 16:57:32 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 19:16:06 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 19:16:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogout=134
+2012/08/23 19:16:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 20:46:59 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/23 20:46:59 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:46:59 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/23 20:47:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:47:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:47:01 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:47:04 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:47:06 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 20:47:07 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:17:00 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:41:51 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:41:54 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:44:44 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:44:44 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:48:14 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:48:33 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 21:52:04 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 22:16:37 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 22:16:38 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 22:19:09 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/23 22:19:11 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/25 10:18:55 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/25 10:18:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/25 10:18:55 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/25 10:19:11 GLOBAL HTTP 127.0.0.1 44678678afc6113f2291be29fc4d8aaf285436f0 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:20:25 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 18:20:25 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:20:25 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:21:08 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:21:28 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST POST http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:21:28 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 AUTH_FAILURE Login=fd QoP=SALT
+2012/08/30 18:21:35 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST POST http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:21:35 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 AUTH_FAILURE Login=fe QoP=SALT
+2012/08/30 18:21:39 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST POST http://localhost/evolya.corpsecurity/test/test.corp2soho.php
+2012/08/30 18:21:40 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 LOGIN Identity=Corp_Auth_SohoIdentity[TYPE=USER; UID=2; NAME=remi]
+2012/08/30 18:21:40 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REDIRECT URL=http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299
+2012/08/30 18:21:40 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299
+2012/08/30 18:21:44 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:27:28 GLOBAL CLI 127.0.0.1 476476383fbbea5d8925fe968c69e0a0174e3475 REQUEST GET cli://localhost/
+2012/08/30 18:27:28 GLOBAL CLI 127.0.0.1 476476383fbbea5d8925fe968c69e0a0174e3475 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:27:34 GLOBAL CLI 127.0.0.1 04134fc7ecd85e13e66fe27d9731ad246c9aaa1f REQUEST GET cli://localhost/
+2012/08/30 18:27:34 GLOBAL CLI 127.0.0.1 04134fc7ecd85e13e66fe27d9731ad246c9aaa1f NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:28:51 GLOBAL CLI 127.0.0.1 54e88350ac75b3b003cc9b1460cfd89fdbe33816 REQUEST GET cli://localhost/
+2012/08/30 18:28:51 GLOBAL CLI 127.0.0.1 54e88350ac75b3b003cc9b1460cfd89fdbe33816 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:28:57 GLOBAL CLI 127.0.0.1 343d00a504f3a659be3ecc7ed78214bdb48f13da REQUEST GET cli://localhost/
+2012/08/30 18:28:57 GLOBAL CLI 127.0.0.1 343d00a504f3a659be3ecc7ed78214bdb48f13da NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:29:04 GLOBAL CLI 127.0.0.1 f229b789875e3e1f884e99268b791e98f1f637c1 REQUEST GET cli://localhost/
+2012/08/30 18:29:04 GLOBAL CLI 127.0.0.1 f229b789875e3e1f884e99268b791e98f1f637c1 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:31:49 GLOBAL CLI 127.0.0.1 876808fa60e53f302daafcc15e22e0b6d66b3d9c REQUEST GET cli://localhost/
+2012/08/30 18:31:49 GLOBAL CLI 127.0.0.1 876808fa60e53f302daafcc15e22e0b6d66b3d9c NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:31:51 GLOBAL CLI 127.0.0.1 42c9d6d34f1361718caf39f23a006b7f5914914f REQUEST GET cli://localhost/
+2012/08/30 18:31:51 GLOBAL CLI 127.0.0.1 42c9d6d34f1361718caf39f23a006b7f5914914f NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:32:06 GLOBAL CLI 127.0.0.1 e6a6be4b4e1a2167bb6c511ee5f655fe06e3aad1 REQUEST GET cli://localhost/
+2012/08/30 18:32:06 GLOBAL CLI 127.0.0.1 e6a6be4b4e1a2167bb6c511ee5f655fe06e3aad1 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:33:40 GLOBAL CLI 127.0.0.1 74617b7028884c1695f9ef72134d97fd4958ba9a REQUEST GET cli://localhost/
+2012/08/30 18:33:40 GLOBAL CLI 127.0.0.1 74617b7028884c1695f9ef72134d97fd4958ba9a NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:33:52 GLOBAL CLI 127.0.0.1 578285ad608725fb0ab2a96d2163b780f138350d REQUEST GET cli://localhost/
+2012/08/30 18:33:52 GLOBAL CLI 127.0.0.1 578285ad608725fb0ab2a96d2163b780f138350d NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:35:51 GLOBAL CLI 127.0.0.1 3d43e9c992ab93ccb5fab5e1fc077acdf01e553d REQUEST GET cli://localhost/
+2012/08/30 18:35:51 GLOBAL CLI 127.0.0.1 3d43e9c992ab93ccb5fab5e1fc077acdf01e553d NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:35:51 GLOBAL CLI 127.0.0.1 557c7081080286e0eaf7b0e002c0e2f3b9bcf1d3 REQUEST GET cli://localhost/
+2012/08/30 18:35:51 GLOBAL CLI 127.0.0.1 557c7081080286e0eaf7b0e002c0e2f3b9bcf1d3 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:35:53 GLOBAL CLI 127.0.0.1 5386db7426728baf8f101ef9878333afa80840f6 REQUEST GET cli://localhost/
+2012/08/30 18:35:53 GLOBAL CLI 127.0.0.1 5386db7426728baf8f101ef9878333afa80840f6 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:45:34 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:45:55 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:13 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:13 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:17 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:18 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:19 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:21 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:22 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:23 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:46:46 GLOBAL CLI 127.0.0.1 c36ca316d0c77a7d6670120b5cd2a7a46af16607 REQUEST GET cli://localhost/
+2012/08/30 18:46:46 GLOBAL CLI 127.0.0.1 c36ca316d0c77a7d6670120b5cd2a7a46af16607 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:46:48 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:47:21 GLOBAL CLI 127.0.0.1 8c87dc9565b767d9854f603fcf79f9b0b46c986c REQUEST GET cli://localhost/
+2012/08/30 18:47:21 GLOBAL CLI 127.0.0.1 8c87dc9565b767d9854f603fcf79f9b0b46c986c NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:38 GLOBAL CLI 127.0.0.1 6a870d96678f4f61067785de7760b33a81c7d16f REQUEST GET cli://localhost/
+2012/08/30 18:48:38 GLOBAL CLI 127.0.0.1 6a870d96678f4f61067785de7760b33a81c7d16f NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 79db3b8156c790abc06b5d958f9a6d12c467af46 REQUEST GET cli://localhost/
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 79db3b8156c790abc06b5d958f9a6d12c467af46 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 7dbb2ae0f5ec3628a9980a160ac837a61f9f7844 REQUEST GET cli://localhost/
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 7dbb2ae0f5ec3628a9980a160ac837a61f9f7844 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 cd173537ba0751aa9eae2fea569e8b9eb650e98b REQUEST GET cli://localhost/
+2012/08/30 18:48:39 GLOBAL CLI 127.0.0.1 cd173537ba0751aa9eae2fea569e8b9eb650e98b NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:41 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:48:43 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:48:43 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:48:44 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 9e199187fc40b75ad21e06608507a5030ff2b6e7 REQUEST GET cli://localhost/
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 9e199187fc40b75ad21e06608507a5030ff2b6e7 NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 ca0aac682b3e941faa6823f10f0818c3a813df2f REQUEST GET cli://localhost/
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 ca0aac682b3e941faa6823f10f0818c3a813df2f NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 46c1f8de2982ef40fa404fa67eba3cb7606b0dac REQUEST GET cli://localhost/
+2012/08/30 18:48:46 GLOBAL CLI 127.0.0.1 46c1f8de2982ef40fa404fa67eba3cb7606b0dac NEW_SESSION Agent=Corp_Agent[AGENT=gnome-terminal/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:48:47 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 a9caa8351abdf16e68e853e9ccfe9d751bbc2058 REQUEST GET cli://localhost/
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 a9caa8351abdf16e68e853e9ccfe9d751bbc2058 NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 cdbd8cc190a3f91ea3e52406e92136e05adeca0b REQUEST GET cli://localhost/
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 cdbd8cc190a3f91ea3e52406e92136e05adeca0b NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 fd1d1f4dff36abd6da1aae9240d2708fd0e45f1f REQUEST GET cli://localhost/
+2012/08/30 18:49:04 GLOBAL CLI 127.0.0.1 fd1d1f4dff36abd6da1aae9240d2708fd0e45f1f NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:49:05 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/test/test.corp2soho.php?afterLogin=1346365299gt
+2012/08/30 18:50:10 GLOBAL CLI 127.0.0.1 c651bf87b1904b18e320ef12f13646266a874e4a REQUEST GET cli://localhost/
+2012/08/30 18:50:10 GLOBAL CLI 127.0.0.1 c651bf87b1904b18e320ef12f13646266a874e4a NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:50:11 GLOBAL CLI 127.0.0.1 67907ced2861898a86bb495b3b01abc1a23cfe0b REQUEST GET cli://localhost/
+2012/08/30 18:50:11 GLOBAL CLI 127.0.0.1 67907ced2861898a86bb495b3b01abc1a23cfe0b NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:50:13 GLOBAL CLI 127.0.0.1 3e008d3a8044d121cf7d64d0921c43a40dd8d7ca REQUEST GET cli://localhost/
+2012/08/30 18:50:13 GLOBAL CLI 127.0.0.1 3e008d3a8044d121cf7d64d0921c43a40dd8d7ca NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:50:14 GLOBAL CLI 127.0.0.1 cfc44a5b0c2e18fd1d3415b9543c9a8308041a50 REQUEST GET cli://localhost/
+2012/08/30 18:50:14 GLOBAL CLI 127.0.0.1 cfc44a5b0c2e18fd1d3415b9543c9a8308041a50 NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 18:50:15 GLOBAL CLI 127.0.0.1 dc54c9a70de2c11a1a4ac37a290b5ea11fbcd60b REQUEST GET cli://localhost/
+2012/08/30 18:50:15 GLOBAL CLI 127.0.0.1 dc54c9a70de2c11a1a4ac37a290b5ea11fbcd60b NEW_SESSION Agent=Corp_Agent[AGENT=unknown/unknown; OS=Linux/3.2.0-29-generic-pae; HOST=localhost; LOCATION=Unkown]
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/30 19:17:09 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php
+2012/08/30 19:17:12 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php
+2012/08/30 19:17:12 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php
+2012/08/30 19:17:12 GLOBAL HTTP 127.0.0.1 549058128155507b0ffb600ac165937758bf52c8 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 ? EXPIRED
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 d3d1b95db5442ebeb215291d191e4d92020f3382 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php
+2012/08/31 19:17:43 GLOBAL HTTP 127.0.0.1 d3d1b95db5442ebeb215291d191e4d92020f3382 NEW_SESSION Agent=Corp_Agent[AGENT=Chrome/18.0.1025.168; OS=Linux/unknown; HOST=localhost; LOCATION=Unkown]
+2012/08/31 19:19:55 GLOBAL HTTP 127.0.0.1 d3d1b95db5442ebeb215291d191e4d92020f3382 REQUEST GET http://localhost/evolya.corpsecurity/trunk/test/test.corp2soho.php

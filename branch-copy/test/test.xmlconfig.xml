@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf basedir="./../src/" debug="xmlconfig,events">
+
+	<property name="session.name">MySession</property>
+	
+	<bean name="service" class="Corp_Service">
+	
+		<!-- Définir le nom de la passerelle d'accès au service.
+		Exemples: http, cli, webdav, ... -->
+		<property name="sapiName">x-http</property>
+		
+		<!-- Afficher les messages des exceptions -->
+		<property name="exposeExceptions">1</property>
+		
+		<!-- Handler en cas d'exception, affichage sous forme de JSON -->
+		<property name="handleExceptions">json</property>
+	
+		<!-- Changement de manager de persistence -->
+		<property name="persistenceManager">
+			<bean class="Corp_Persistence_Manager_PHP">
+				<!-- Changement du nom de la session -->
+				<property name="sessionName">${session.name}</property>
+				<!-- Changement de la classe par défaut pour la création de nouvelles sessions -->
+				<property name="sessionFactoryClass">Corp_Persistence_SessionBasic</property>
+			</bean>
+		</property>
+		
+		<!-- Chargement d'un plugin empechant le flood -->
+		<include filename="${basedir}/CorpSecurity/Plugins/corp.plugin.noflood.php" />
+		<call name="addPlugin">
+			<arg><bean class="Corp_Plugin_NoFlood"></bean></arg>
+		</call>
+		
+		<!-- Ajout d'un processus d'authentification -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Auth_Process_HttpBasic">
+					<constructor-arg>${session.name}</constructor-arg>
+					<constructor-arg>
+						<bean class="MyIdentityManager">
+							<property name="realm">${session.name}</property>
+						</bean>
+					</constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Lancer l'execution du service -->
+		<call name="execute" />
+
+	</bean>
+
+</conf>

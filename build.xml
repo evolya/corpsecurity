@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CorpSecurity">
+
+	<property name="project.version" value="3.2.6" />
+	<property name="project.url" value="http://blog.evolya.fr/?q=corp" />
+	<property name="project.status" value="stable, release, active, public-release" />
+
+	<property name="project.description"><![CDATA[
+
+	<h2>CorpSecurity</h2>
+
+	<p>Création du projet: Juin 2011
+
+	]]></property>
+
+	<property name="src.dir" value="${project.dir}/trunk/src/" />
+	<property name="test.dir" value="${project.dir}/trunk/test/" />
+	<property name="dist.dir" value="${project.dir}/dist/" />
+	
+	<property name="bugtracker.name" value="Bugs SoHo" />
+
+	<target name="about" description="Display some info about this project">
+		<echo>Project name: ${project.name}</echo>
+		<echo>Current version: ${project.version}</echo>
+		<echo>Description:</echo>
+		<echo>${project.description}</echo>
+	</target>
+
+	<target name="test-all" description="Execute all tests">
+		
+		<include file="${src.dir}/includes_all.php" />
+		<include file="${workspace.dir}/3rdparty.simpletest/unit_tester.php" />
+		
+		<test-run file="${test.dir}/unittest.xmlconfig.php" class="Corp_Test_XmlConfig" />
+		<test-run file="${test.dir}/unittest.service.php" class="Corp_Test_Service" />
+		<test-run file="${test.dir}/unittest.request.php" class="Corp_Test_Request" />
+
+	</target>
+	
+	<target name="dist" description="Create a ZIP distribution with documentation and licence">
+		<mkdir dir="${dist.dir}" />
+		<phar destfile="${dist.dir}corpsecurity.phar" srcdir="${src.dir}/CorpSecurity" stub="index.php" />
+	</target>
+
+</project>

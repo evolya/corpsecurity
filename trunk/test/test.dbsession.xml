@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf basedir="./../src/" debug="!xmlconfig,events,lifecycle,!sql">
+	
+	<bean name="service" class="Corp_Service">
+	
+		<!-- Définir le nom de la passerelle d'accès au service.
+		Exemples: http, cli, webdav, ... -->
+		<property name="sapiName">http</property>
+		
+		<!-- Afficher les messages des exceptions -->
+		<property name="exposeExceptions">1</property>
+		
+		<!-- Handler en cas d'exception, affichage sous forme de XML -->
+		<property name="handleExceptions">json</property>
+		
+		<!-- Eviter les conflicts avec les autres tests -->
+		<include filename="${basedir}/../corp2soho/plugin.corp2soho.identity.php" />
+	
+		<!-- Changement de manager de persistence -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_DatabasePersistenceManager">
+					<!-- Configuration de la base de données du manager -->
+					<constructor-arg>
+						<bean name="orm" class="Corp_Persistence_ORM_SessionDefaultMySQL">
+							<constructor-arg>
+								<bean class="PDO">
+									<constructor-arg>mysql:host=localhost;dbname=test</constructor-arg>
+									<constructor-arg>root</constructor-arg>
+									<constructor-arg>jj41Sm:88</constructor-arg>
+								</bean>
+							</constructor-arg>
+							<!-- Changement du nom de la table SQL cible -->
+							<property name="tableName">corp_session</property>
+							<!-- Afficher les requêtes -->
+							<property name="debugQueries">${debug.sql}</property>
+						</bean>
+					</constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Ajout du système de sudo -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_SudoSession">
+					<constructor-arg><bean name="orm" /></constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Ajout du logger de performances -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_PerfLog">
+					<constructor-arg>${basedir}/perflog/</constructor-arg>
+					<property name="version_name">Main Branch</property>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Debugger -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Debugger_Events" name="events">
+					<property name="printOnShutdown">1</property>
+					<property name="verboseMode">0</property>
+					<property name="detectErrors">1</property>
+				</bean>
+			</arg>
+		</call>
+
+	</bean>
+
+</conf>

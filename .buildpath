@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="trunk/test"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="trunk/corp2soho"/>
+	<buildpathentry combineaccessrules="false" kind="prj" path="/evolya.moodel"/>
+	<buildpathentry kind="src" path="trunk/src"/>
+</buildpath>

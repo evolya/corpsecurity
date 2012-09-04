@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf basedir="." debug="!xmlconfig,!lifecycle,!sql,!exceptions">
+	
+	<bean name="service" class="Corp_Service">
+	
+		<!-- Debuggers : doivent être placées en premier -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Debugger_Events">
+					<property name="printOnShutdown">1</property>
+					<property name="verboseMode">0</property>
+					<property name="detectErrors">1</property>
+				</bean>
+			</arg>
+		</call>
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Debugger_Sessions">
+					<property name="printOnShutdown">1</property>
+				</bean>
+			</arg>
+		</call>
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Debugger_Error">
+					<property name="printOnShutdown">1</property>
+				</bean>
+			</arg>
+		</call>
+	
+		<!-- Définir le nom de la passerelle d'accès au service.
+		Exemples: http, cli, webdav, ... -->
+		<property name="sapiName">http</property>
+		
+		<!-- Afficher les messages des exceptions -->
+		<property name="exposeExceptions">${debug.exceptions}</property>
+		
+		<!-- Handler en cas d'exception, affichage sous forme de XML -->
+		<property name="handleExceptions">json</property>
+		
+		<!-- Chargement de la passerelle corp2soho -->
+		<include-path>${includepath}${includepathseparator}${basedir}/../</include-path>
+		<include filename="${basedir}/plugin.corp2soho.php" />
+	
+		<!-- Ajout du manager de persistence -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_DatabasePersistenceManager">
+				<!-- Configuration de la base de données du manager -->
+				<constructor-arg>
+					<bean name="orm.session" class="Corp_Persistence_SessionORM_Moodel">
+						<constructor-arg><bean name="model.session" class="UserSessionCorpMoodelStruct" /></constructor-arg>
+					</bean> 
+				</constructor-arg>
+				<!-- Configuration des classes de factory -->
+				<property name="sessionFactoryClass">Corp_Persistence_SessionSudo</property>
+				<property name="identityFactoryClass">Corp_Auth_SohoIdentity</property>
+			</bean>
+			</arg>
+		</call>
+		
+		<!-- Système de sudo -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_SudoSession">
+					<constructor-arg><bean name="orm.session" /></constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Mapping entre Corp et SoHo -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_Corp2Soho">
+					<constructor-arg><bean name="model.user" /></constructor-arg>
+					<constructor-arg><bean name="model.session" /></constructor-arg>
+					<constructor-arg><bean class="Corp_Auth_BasicLoginForm"></bean></constructor-arg>
+					<property name="redirectAfterLogin">${baseurl}test.corp2soho.php?afterLogin=${now}</property>
+					<property name="redirectAfterLogout">${baseurl}test.corp2soho.php?afterLogout=${now}</property>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Geolocation -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_GeoIP" />
+			</arg>
+		</call>
+		
+		<!-- NoFlood plugin  -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_NoFlood" />
+			</arg>
+		</call>
+		
+		<!-- G-Line plugin (réquis par noflood) -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_Gline">
+					<constructor-arg>${basedir}/../src/cache/gline</constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Système de knownplace -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_KnownPlace">
+					<constructor-arg><bean name="orm.session" /></constructor-arg>
+				</bean>
+			</arg>
+		</call>
+		
+		<!-- Logger -->
+		<call name="addPlugin">
+			<arg>
+				<bean class="Corp_Plugin_GlobalLogger">
+					<constructor-arg>${basedir}/../src/logs/global.logs</constructor-arg>
+				</bean>
+			</arg>
+		</call>
+
+	</bean>
+
+</conf>
