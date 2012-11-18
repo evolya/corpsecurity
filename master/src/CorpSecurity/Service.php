@@ -29,12 +29,12 @@
  * @link       http://blog.evolya.fr/?q=corp
  */
 class Corp_Service extends Corp_AbstractService {
-	
+
 	/**
 	 * @var string
 	 */
 	const VERSION = '3.2';
-		
+
 	/**
 	 * @var Corp_ExecutionContext
 	 */
@@ -44,32 +44,34 @@ class Corp_Service extends Corp_AbstractService {
 	 * @var Exception|int|string
 	 */
 	protected $last_error = null;
-	
+
 	/**
 	 * @var string
 	 */
 	public $sapiName = null;
-	
+
 	/**
 	 * @var string|null 'xml' or 'json', or null to disable handling
 	 */
 	public $handleExceptions = 'xml';
-	
+
 	/**
 	 * @var boolean
 	 */
 	public $exposeExceptions = false;
-	
+
 	/**
 	 * Constructor.
 	 */
 	public function __construct($cacheDir = null) {
-		
+
+		// TODO $cacheDir n'est plus utilisé ?
+
 		// SAPI Name
 		$this->sapiName = PHP_SAPI;
 
 	}
-	
+
 	/**
 	 * Récupérer le contexte d'execution actuel. Si le contexte n'existe pas, il sera crééé.
 	 * 
@@ -96,40 +98,40 @@ class Corp_Service extends Corp_AbstractService {
 	 * @event afterRequestCreated
 	 */
 	protected function createExecutionContext($broadcast = false) {
-		
+
 		// Création du contexte d'execution
 		$context = new Corp_ExecutionContext($this);
-		
+
 		// Set service
 		$context->setService($this);
-		
+
 		// Event before
 		if ($broadcast && !$this->broadcastEvent('beforeRequestCreated', array($context))) {
 			return $context;
 		}
-		
+
 		// Création de la requête
 		$request = Corp_Request::create(
 			$context,		// Current context
 			$this->sapiName	// API name
 		);
-		
+
 		// On passe la requête au contexte
 		$context->setRequest($request);
-		
+
 		// Et l'agent
 		$context->setAgent($request->getAgent());
-			
+
 		// Event after
 		if ($broadcast) {
 			$this->broadcastEvent('afterRequestCreated', array($request, $context));
 		}
-		
+
 		// On renvoi le contexte
 		return $context;
-		
+
 	}
-	
+
 	/**
 	 * Execution du service Corp.
 	 * 
@@ -250,7 +252,7 @@ class Corp_Service extends Corp_AbstractService {
 		$this->broadcastEvent('afterMethod', array($context, $method));
 		
 	}
-		
+
 	/**
 	 * Callback de fin d'execution.
 	 * 
@@ -282,7 +284,7 @@ class Corp_Service extends Corp_AbstractService {
 		$this->broadcastEvent('afterShutdown', array($this));
 		
 	}
-	
+
 	/**
 	 * @return boolean
 	 */

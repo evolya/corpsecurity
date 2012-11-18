@@ -115,6 +115,7 @@ abstract class Corp_AbstractService {
 	public function removePlugin($pluginName) {
 		if (isset($this->plugins[$pluginName])) {
 			unset($this->plugins[$pluginName]);
+			return true;
 		}
 		return false;
 	}
