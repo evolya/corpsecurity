@@ -28,9 +28,9 @@
 		</call>
 		
 		<!-- Chargement d'un plugin empechant le flood -->
-		<call name="addPlugin">
+		<!--<call name="addPlugin">
 			<arg><bean class="Corp_Plugin_NoFlood"></bean></arg>
-		</call>
+		</call>-->
 		
 		<!-- Ajout d'un processus d'authentification -->
 		<call name="addPlugin">

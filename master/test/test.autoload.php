@@ -7,7 +7,7 @@ if (@$_GET['phar'] == 'yes') {
 	echo '<p><a href="?phar=no">Without PHAR</a></p>';
 }
 else {
-	include dirname(__FILE__) . '/../src/CorpSecurity/index.php';
+	include dirname(__FILE__) . '/../src/index.php';
 	echo '<p><a href="?phar=yes">With PHAR</a></p>';
 }
 

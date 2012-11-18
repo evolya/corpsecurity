@@ -1,7 +1,7 @@
 <?php
 
 error_reporting(E_ALL);
-require_once '../src/CorpSecurity/index.php';
+require_once '../src/index.php';
 Corp_ClassLoader::autoload();
 error_reporting(E_ALL);
 

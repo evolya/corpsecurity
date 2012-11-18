@@ -1,0 +1,10 @@
+# Cache
+cache/*
+
+# Logs
+perflog/*
+logs/*
+
+# Out of the project
+corp2soho/*
+test/modules/*
