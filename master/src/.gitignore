@@ -3,3 +3,4 @@ cache/*
 
 # Logs
 perflog/*
+logs/*
